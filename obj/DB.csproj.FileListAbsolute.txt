@@ -1,0 +1,8 @@
+E:\Soft\T\DB\DB\DB\obj\Debug\ResolveAssemblyReference.cache
+E:\Soft\T\DB\DB\DB\obj\Debug\DB.Properties.Resources.resources
+E:\Soft\T\DB\DB\DB\obj\Debug\DB.csproj.GenerateResource.Cache
+E:\Soft\T\DB\DB\DB\bin\Debug\DB.exe
+E:\Soft\T\DB\DB\DB\bin\Debug\DB.pdb
+E:\Soft\T\DB\DB\DB\obj\Debug\DB.exe
+E:\Soft\T\DB\DB\DB\obj\Debug\DB.pdb
+E:\Soft\T\DB\DB\DB\obj\Debug\DB.frmVatTu.resources
