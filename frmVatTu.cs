@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace DBddd
+namespace DBdddhaha
 {
     public partial class frmVatTu : Form
     {
